@@ -1,4 +1,4 @@
-# Currency changes - soles(PEN) a dolares(USD)
+# Currency changes - soles a dolares
 
 Este servicio permite calcular el cambio de moneda de soles(PEN) a dolares(USD), validando el DNI.
 
